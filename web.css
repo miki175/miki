@@ -22,3 +22,68 @@ table {
 	border: 2px solid;
 } 
 
+.button {
+  padding: 15px 25px;
+  font-family:serif; 
+  font-size: 30px;
+  text-align: center;
+  cursor: pointer;
+  outline: 0;
+  border: 2px solid white;
+  color: #fff;
+  background-color: #662cb7;
+  border-radius: 15px;
+  box-shadow: 0 9px #484848;
+}
+ /* 401a75 */
+.button:hover {background-color: #123742}
+
+.button:active {
+  background-color: #662cb7;
+  box-shadow: 0 5px #484848;
+	transform: translateY(4px);
+}
+
+.button2 {
+  padding: 15px 25px;
+  font-family:serif; 
+  font-size: 30px;
+  text-align: center;
+  cursor: pointer;
+  outline: 0;
+  border: 2px solid white;
+  color: #fff;
+  background-color: #0f7f9e;
+  border-radius: 15px;
+  box-shadow: 0 9px #484848;
+}
+ /* 401a75 */
+.button2:hover {background-color: #401a75}
+
+.button2:active {
+  background-color: #0f7f9e;
+  box-shadow: 0 5px #484848;
+	transform: translateY(4px);
+}
+
+.BIGbutton {
+  padding: 100px 80px;
+  font-family:serif; 
+  font-size: 30px;
+  text-align: center;
+  cursor: pointer;
+  outline: 0;
+  border: 2px solid white;
+  color: #fff;
+  background-color: #662cb7;
+  border-radius: 15px;
+  box-shadow: 0 9px #484848;
+}
+ /* 401a75 */
+.BIGbutton:hover {background-color: #123742}
+
+.BIGbutton:active {
+  background-color: #662cb7;
+  box-shadow: 0 5px #484848;
+	transform: translateY(4px);
+}
