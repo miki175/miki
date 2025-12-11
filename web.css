@@ -87,3 +87,23 @@ table {
   box-shadow: 0 5px #484848;
 	transform: translateY(4px);
 }
+
+.toTopButton {
+  display: none;
+  padding: 15px;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-family:serif; 
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: 0;
+  border: 2px solid white;
+  color: #fff;
+  background-color: #662cb7;
+  border-radius: 4px;
+}
+ /* 401a75 */
+.toTopButton:hover {background-color: #123742}
