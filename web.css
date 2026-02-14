@@ -36,7 +36,7 @@ table {
   box-shadow: 0 9px #484848;
 }
  /* 401a75 */
-.button:hover {background-color: #123742}
+.button:hover {background-color: #2f1455}
 
 .button:active {
   background-color: #662cb7;
@@ -53,7 +53,7 @@ table {
   outline: 0;
   border: 2px solid white;
   color: #fff;
-  background-color: #0f7f9e;
+  background-color: #2f1455;
   border-radius: 15px;
   box-shadow: 0 9px #484848;
 }
@@ -61,7 +61,7 @@ table {
 .button2:hover {background-color: #401a75}
 
 .button2:active {
-  background-color: #0f7f9e;
+  background-color: #2f1455;
   box-shadow: 0 5px #484848;
 	transform: translateY(4px);
 }
@@ -106,4 +106,4 @@ table {
   border-radius: 4px;
 }
  /* 401a75 */
-.toTopButton:hover {background-color: #123742}
+.toTopButton:hover {background-color: #2f1455}
